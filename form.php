@@ -2,7 +2,7 @@
 
 header('Access-Control-Allow-Origin: *');
 
-$EmailTo = "Konstantin-G-Baranov@yandex.ru";
+$EmailTo = "username@yandex.ru";
 $EmailFrom = 'price@fuyao.ru';
 $Subject = "Заявка на получение прайс-листа fuyao.ru";
 
